@@ -1,6 +1,6 @@
 ---
-title: "Forgot your dice? Problem solved"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Forgot your dice? Problem solved."
+excerpt: "For years now I've been volunteering at our local library leading Dungeons and Dragons games for teens. My D&D roots go way back."
 coverImage: "/assets/blog/flumph-rules.jpg"
 date: "2024-08-18T05:35:07.322Z"
 ogImage:
@@ -11,6 +11,6 @@ For years now I've been volunteering at our local library leading Dungeons and D
 
 [iforgotmydice.com](https://iforgotmydice.com)
 
-I was certainly not trying to create the best dice roller out there. Lord knows there are a-plenty. I wanted to learn some React and what better way to learn than to create something useful?
+I was certainly not trying to create the best dice roller out there. Lord knows there are dice rollers aplenty. I wanted to learn some React and what better way to learn than to create something useful?
 
 Enjoy the adventure!
